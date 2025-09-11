@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasa312002&label=Profile%20views&color=6366F1&style=flat" alt="Profile Views" />
+  
   <img src="https://img.shields.io/github/followers/sasa312002?label=Followers&color=10B981" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/sasa312002?label=Stars&color=8B5CF6" alt="GitHub Stars" />
 </div>
