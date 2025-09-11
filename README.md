@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tharindu-tennakoon">
+  <a href="https://www.linkedin.com/in/tharindu-bandaratennakoon">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tharindutennakoon@gmail.com">
+  <a href="mailto:sasankatennakoon31@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sasa312002">
@@ -122,10 +122,10 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tharindu-tennakoon">
+  <a href="https://www.linkedin.com/in/tharindu-bandaratennakoon">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tharindutennakoon@gmail.com">
+  <a href="mailto:sasankatennakoon31@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sasa312002">
