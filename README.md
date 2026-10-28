@@ -1,44 +1,42 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:10B981,100:8B5CF6&height=220&section=header&text=Tharindu%20Tennakoon&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=56&descAlign=50" alt="header"/>
-</p>
-
-<p align="center" style="margin-top:-18px;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Data%20Scientist+%26+Full-Stack+%26+Mobile+Developer;Python+%7C+React+%7C+Kotlin+%7C+Java;Always+exploring+new+tech+%F0%9F%9A%80" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tharindu-bandaratennakoon">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sasankatennakoon31@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sasa312002">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<!-- GitHub profile README for https://github.com/sasa312002 -->
 
 <div align="center">
-  
-  <img src="https://img.shields.io/github/followers/sasa312002?label=Followers&color=10B981" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sasa312002?label=Stars&color=8B5CF6" alt="GitHub Stars" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,50:10B981,100:8B5CF6&amp;height=220&amp;section=header&amp;text=Tharindu%20Tennakoon&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&amp;descAlignY=56&amp;descAlign=50" alt="Tharindu Tennakoon — Data Science Student and Developer" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;pause=1200&amp;color=10B981&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Welcome+to+my+GitHub+Profile!;Data+Science+%7C+Full-Stack+%7C+Mobile+Development;Python+%7C+React+%7C+Kotlin+%7C+Java;Always+learning+and+building+%F0%9F%9A%80" alt="Welcome to my GitHub profile — Data Science, Full-Stack and Mobile Development" />
+
+  <br />
+
+  <a href="https://www.linkedin.com/in/tharindu-bandaratennakoon">
+    <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sasankatennakoon31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sasa312002">
+    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/sasa312002?tab=followers">
+    <img src="https://img.shields.io/github/followers/sasa312002?label=Followers&amp;color=10B981&amp;style=flat-square" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/sasa312002?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sasa312002?label=Stars&amp;color=8B5CF6&amp;style=flat-square" alt="GitHub stars received" />
+  </a>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 **Data Science Student** at **SLIIT**  
-📍 **Mawanella, Kegalle, Sri Lanka**  
-💻 **Passionate Data Scientist & Developer** exploring Data Science, Web, Mobile, and Cloud technologies  
-🚀 **Building impactful projects** in Python, Kotlin, MERN Stack, and more  
-
-### 🎯 What I Do
-- 📊 **Data Science** - Analyzing data and building ML models with Python  
-- 🔨 **Full-Stack Development** - Crafting seamless end-to-end web applications  
-- 📱 **Mobile App Development** - Building Android apps with Kotlin  
-- ☁️ **Cloud Computing** - Leveraging Azure, AWS, and DevOps tools  
-- 🎓 **Lifelong Learner** - Constantly expanding my technical expertise  
+- 🎓 **Data Science Student** at **Sri Lanka Institute of Information Technology (SLIIT)**
+- 📍 Based in **Mawanella, Kegalle, Sri Lanka**
+- 📊 Interested in **data science, machine learning, and AI**
+- 💻 Building **full-stack web applications** and **Android apps**
+- ☁️ Exploring **cloud computing, DevOps, and scalable software**
+- 🚀 Always learning, experimenting, and turning ideas into projects
 
 ---
 
@@ -46,110 +44,100 @@
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,r" height="45" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=py,js,ts,kotlin,java,r&amp;theme=dark" height="48" alt="Python, JavaScript, TypeScript, Kotlin, Java and R" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui,redux" height="45" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui,redux&amp;theme=dark" height="48" alt="React, HTML, CSS, Tailwind CSS, Bootstrap, Material UI and Redux" />
 
 ### ⚙️ Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask" height="45" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask&amp;theme=dark" height="48" alt="Node.js, Express, Spring, Django and Flask" />
 
-### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=android,kotlin,firebase,flutter" height="45" />
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,flutter&amp;theme=dark" height="48" alt="Android Studio, Kotlin, Firebase and Flutter" />
 
-### 📊 Data Science
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" height="45" />
+### 📊 Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn&amp;theme=dark" height="48" alt="Python, TensorFlow, PyTorch and scikit-learn" />
+
+**Pandas · NumPy · Matplotlib · Statistical Modeling · Machine Learning**
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" height="45" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres&amp;theme=dark" height="48" alt="MySQL, MongoDB, Firebase and PostgreSQL" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,gitlab,kubernetes" height="45" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,gitlab,kubernetes&amp;theme=dark" height="48" alt="AWS, Azure, Docker, GitLab and Kubernetes" />
 
-### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,jupyter" height="45" />
+### 🔧 Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&amp;theme=dark" height="48" alt="Git, GitHub, VS Code, Postman and Linux" />
+
+**Jupyter Notebook**
 
 </div>
 
 ---
 
- ### 📊 GitHub Analytics
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sasa312002&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=sasa312002&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasa312002&theme=tokyonight" alt="Top Langs by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sasa312002&theme=tokyonight" alt="Top Langs by Repo" />
-</p>
+| Project | Description |
+| :-- | :-- |
+| 🐾 [Fluffy Care](https://github.com/sasa312002/Fluffy-Care-) | Pet care management project. |
+| 🚂 [Train-GO](https://github.com/sasa312002/Train-GO) | Train reservation system. |
+| 🌿 [Wildlife Safari Management System](https://github.com/sasa312002/wildlife-safari-management-system) | Wildlife safari management application. |
+| 📚 [Knowledge Compass](https://github.com/sasa312002/Knowledge-Compass) | Explore the project source code. |
+
+[**Explore all my repositories →**](https://github.com/sasa312002?tab=repositories)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sasa312002&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="175" alt="GitHub contribution statistics" />
+  <img src="https://streak-stats.demolab.com?user=sasa312002&amp;theme=tokyonight&amp;hide_border=true" height="175" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sasa312002&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Most-used GitHub repository languages" />
+</div>
+
+<sub>Note: These community-hosted stats can be temporarily unavailable because of service or GitHub API limits. The contribution calendar on the [GitHub profile](https://github.com/sasa312002) is the authoritative view.</sub>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sasa312002&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-- 🏅 **Pair Extraordinaire** x2  
-- 🦈 **Pull Shark** x2  
-- 🎯 **YOLO** Achievement  
-- ⚡ **Quickdraw** Achievement  
+🏅 Check out my [GitHub achievements and badges](https://github.com/sasa312002) directly on my profile. They update automatically as I contribute.
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📊 **Data Science Techniques** - Advanced ML and statistical modeling  
-- ☁️ **Advanced Cloud Computing** - Azure, AWS, and serverless architectures  
-- 🔧 **DevOps Practices** - CI/CD pipelines and containerization  
-- 🤖 **AI Integration** - Embedding ML models in web and mobile apps  
-- 📱 **Advanced Android Development** - Modern architectures and patterns  
-- 🌐 **Full-Stack Development** - Optimizing for scalability and performance  
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasa312002&theme=dracula&hide_border=true" alt="Contribution Graph" />
-</div>
+- 📊 Advanced machine learning and statistical modeling
+- 🤖 AI integration into web and mobile applications
+- ☁️ Cloud services, deployment, and serverless architectures
+- 🔧 DevOps workflows, CI/CD, and containerization
+- 📱 Modern Android development patterns
+- 🌐 Scalable full-stack application design
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
+I'm interested in collaborating on **data science, AI, full-stack development, and mobile projects**.
+
+<div align="center">
   <a href="https://www.linkedin.com/in/tharindu-bandaratennakoon">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-6366F1?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:sasankatennakoon31@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Say_Hello-Email-10B981?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" />
   </a>
-  <a href="https://github.com/sasa312002">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💡 Fun Facts
-
-- 🎯 **Lifelong Learner**: Always exploring the latest tech trends  
-- 🚀 **Project Enthusiast**: Passionate about solving real-world problems  
-- 🎓 **Student Developer**: Balancing studies at SLIIT with innovative projects  
-- 🐾 **Pet Lover**: Built a pet care management system  
-- 🚂 **Travel Enthusiast**: Created a train reservation system for seamless travel  
-- 📊 **Data Nerd**: Obsessed with uncovering insights from data  
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Code%2C+Learn%2C+and+Build+every+day!;Let's+connect+and+collaborate!;Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:10B981,100:8B5CF6&height=100&section=footer" alt="Footer" />
+  <h3>✨ Code. Learn. Build. Repeat.</h3>
+  <p>Thanks for visiting my GitHub profile! 🚀</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,50:10B981,100:8B5CF6&amp;height=100&amp;section=footer" width="100%" alt="Colorful wave footer" />
 </div>
